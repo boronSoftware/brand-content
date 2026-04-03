@@ -1,0 +1,100 @@
+/* Home Video */
+@font-face {
+  font-family: "Home Video";
+  src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/Home_Video/Home_Video.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Home Video";
+  src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/Home_Video/Home_Video-Bold.ttf");
+  font-weight: bold;
+}
+
+/* Hornet Display */
+@font-face {
+  font-family: "Hornet Display";
+  src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/HornetDisplay/HornetDisplay-Regular.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Hornet Display";
+  src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/HornetDisplay/HornetDisplay-Bold.ttf");
+  font-weight: bold;
+}
+
+/* TASA Orbiter Deck */
+@font-face {
+    font-family: "TASA Orbiter Deck";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterDeck-Regular.otf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "TASA Orbiter Deck";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterDeck-Medium.otf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "TASA Orbiter Deck";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterDeck-SemiBold.otf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "TASA Orbiter Deck";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterDeck-Bold.otf");
+    font-weight: 700;
+}
+
+/* TASA Orbiter Display */
+@font-face {
+    font-family: "TASA Orbiter Display";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterDisplay-Regular.otf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "TASA Orbiter Display";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterDisplay-Medium.otf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "TASA Orbiter Display";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterDisplay-SemiBold.otf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "TASA Orbiter Display";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterDisplay-Bold.otf");
+    font-weight: 700;
+}
+
+/* TASA Orbiter Text */
+@font-face {
+    font-family: "TASA Orbiter Text";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterText-Regular.otf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "TASA Orbiter Text";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterText-Medium.otf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "TASA Orbiter Text";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterText-SemiBold.otf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "TASA Orbiter Text";
+    src: url("https://github.com/boronSoftware/brand-content/raw/refs/heads/main/fonts/TASA_Orbiter/TASAOrbiterText-Bold.otf");
+    font-weight: 700;
+}
